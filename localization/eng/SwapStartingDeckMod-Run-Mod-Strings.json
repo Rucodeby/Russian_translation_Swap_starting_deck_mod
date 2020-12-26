@@ -1,0 +1,6 @@
+{
+  "swapstartingdeckmod:SwapStartingDeck": {
+    "NAME": "Заменить стартовую колоду",
+    "DESCRIPTION": "Swap your starting deck for a predefined package of cards."
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "swapstartingdeckmod:Berserker": {
+    "NAME": "Берз!рк",
+    "DESCRIPTION": "Ярость NL 4 Двойных Удара NL 4 Ярости NL Игра мышцами"
+  },
+  "swapstartingdeckmod:Uproar": {
+    "NAME": "Буйство",
+    "DESCRIPTION": "Раж NL 4 Тарана NL 4 Ерунды NL Боевой транс"
+  },
+  "swapstartingdeckmod:Fortification": {
+    "NAME": "Фортификация",
+    "DESCRIPTION": "5 Железных волн NL 4 Окопаться NL Барикада"
+  },
+  "swapstartingdeckmod:Impermanence": {
+    "NAME": "Непостоянство",
+    "DESCRIPTION": "4 Резни NL 5 Призрачных брони NL Забыть о боли"
+  },
+  "swapstartingdeckmod:Pyromancer": {
+    "NAME": "Пироманьяк",
+    "DESCRIPTION": "4 Безрасудный заряд NL Неистовый удар NL 4 Стиснуть зубф NL Огненонное дыхание"
+  },
+  "swapstartingdeckmod:Acrobat": {
+    "NAME": "Акробат",
+    "DESCRIPTION": "3 Коварных удара NL Потрошение NL Акробатика NL 4 Сальто назад NL Подготовка"
+  },
+  "swapstartingdeckmod:Lacerator": {
+    "NAME": "Разрыватель",
+    "DESCRIPTION": "4 Разреза NL Добиватель NL 4 Плаща и кинжала NL Танец клинков"
+  },
+  "swapstartingdeckmod:Alchemist": {
+    "NAME": "Алхимик",
+    "DESCRIPTION": "4 Отравленых кинжала NL 4 Парировантя NL Смертелбный яд NL Алхимия"
+  },
+  "swapstartingdeckmod:Strategist": {
+    "NAME": "Стратег",
+    "DESCRIPTION": "Хищник NL 3 Дротика NL 4 Плана побега NL Заготовка NL Подсечка"
+  },
+  "swapstartingdeckmod:Ninja": {
+    "NAME": "Ниндзя",
+    "DESCRIPTION": "5 Быстрых разрезов NL 1 Неуловимость NL 4 Уворота и переката"
+  },
+  "swapstartingdeckmod:Battery": {
+    "NAME": "Батарея",
+    "DESCRIPTION": "4 Оптимизации NL Метеоритный удар NL 3 Заряда акумулятора NL Удвоение энергии NL Переработка"
+  },
+  "swapstartingdeckmod:IceAge": {
+    "NAME": "Ледяной век",
+    "DESCRIPTION": "5 Метелей NL Заморозка NL 4 Невозмутимости"
+  },
+  "swapstartingdeckmod:Thunderstruck": {
+    "NAME": "Громовой чел",
+    "DESCRIPTION": "4 Шаровых молнии NL Удар молнией NL 4 Сэка NL Шок"
+  },
+  "swapstartingdeckmod:RogueAI": {
+    "NAME": "ИИ разбойник",
+    "DESCRIPTION": "4 Исполосовать NL Истерзать NL Перепрограммирование NL 4 Паровых завесы"
+  },
+  "swapstartingdeckmod:Technologist": {
+    "NAME": "Технолог",
+    "DESCRIPTION": "4 Рикошета NL Белый шум NL 4 Силовых поля NL Привет мир"
+  },
+  "swapstartingdeckmod:Dancer": {
+    "NAME": "Танцор",
+    "DESCRIPTION": "Истерика NL 4 Освятить NL Внутреннее спокойствие NL 3 Остановки NL Ментальная крепость"
+  },
+  "swapstartingdeckmod:Visionary": {
+    "NAME": "Провидец",
+    "DESCRIPTION": "5 Нитей судьбы NL 4 Третьих глаза NL Нирвана"
+  },
+  "swapstartingdeckmod:NorthStar": {
+    "NAME": "Северная звезда",
+    "DESCRIPTION": "Мельничный пинок NL 4 Шквал ударов NL Болевые точки NL 4 Оценить"
+  },
+  "swapstartingdeckmod:Enlightenment": {
+    "NAME": "Просвещение",
+    "DESCRIPTION": "4 Достичь небес NL 5 Поклонитлся NL Молитва"
+  },
+  "swapstartingdeckmod:Creation": {
+    "NAME": "Создатель",
+    "DESCRIPTION": "5 Поломать реалность NL 5 Обмануть реальность"
+  },
+  "swapstartingdeckmod:Chaos": {
+    "NAME": "Хаос",
+    "DESCRIPTION": "10 случайных обычных карт"
+  },
+  "swapstartingdeckmod:Insanity": {
+    "NAME": "Безумие",
+    "DESCRIPTION": "50 случайных карт"
+  }
+}

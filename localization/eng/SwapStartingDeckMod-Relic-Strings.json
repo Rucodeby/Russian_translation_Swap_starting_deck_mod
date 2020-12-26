@@ -1,0 +1,37 @@
+{
+  "swapstartingdeckmod:DeadBlossom": {
+    "NAME": "Мёртвый цветок",
+    "FLAVOR": "Все возможности имеют цену.", 
+    "DESCRIPTIONS": [
+      "Лечение менее эфективно на 50%."
+    ]
+  },
+  "swapstartingdeckmod:Bellows": {
+    "NAME": "Мехи",
+    "FLAVOR": "Всё непостояно.",
+    "DESCRIPTIONS": [
+      "Все карты которые остаются у вас в руке в конце хода сжигаются."
+    ]
+  },
+  "swapstartingdeckmod:CursedMarble": {
+    "NAME": "Проклятый мрамор",
+    "FLAVOR": "Будь осторожен с желаниями.",
+    "DESCRIPTIONS": [
+      "Вы берёте на 1 карту меньше каждый ход."
+    ]
+  },
+  "swapstartingdeckmod:BloodOffering": {
+    "NAME": "Подношение кровью",
+    "FLAVOR": "Жизнь боль. Тот кто продаёт говорит обратное.", 
+    "DESCRIPTIONS": [
+      "Враги наносят двойной урон."
+    ]
+  },
+  "swapstartingdeckmod:GoldTooth": {
+    "NAME": "Золотой зуб",
+    "FLAVOR": "Тебе и его выбьют.",
+    "DESCRIPTIONS": [
+      "У врагов в 2 раза больше ОЗ."
+    ]
+  }
+}
